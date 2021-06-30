@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "label": "People",
+    "entity": "people"
+  },
+  {
+    "id": 2,
+    "label": "Films",
+    "entity": "films"
+  },
+  {
+    "id": 3,
+    "label": "Starships",
+    "entity": "starships"
+  },
+  {
+    "id": 4,
+    "label": "Vehicles",
+    "entity": "vehicles"
+  },
+  {
+    "id": 5,
+    "label": "Species",
+    "entity": "species"
+  },
+  {
+    "id": 6,
+    "label": "Planets",
+    "entity": "planets"
+  }
+]
